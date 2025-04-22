@@ -112,7 +112,7 @@ The `enhanced_visualize_response.py` script generates comprehensive visualizatio
 
 5.  Expression vs displacement plots showing the relationship between gene expression and protein movement:
 
-    ![Expression vs Displacement Plot](visualizations/expression_displacement_plot.png)
+    ![Expression vs Displacement Plot](visualizations/expression_vs_displacement.png)
 
 6.  Vector field visualizations showing the direction and magnitude of protein movements:
 
