@@ -97,25 +97,25 @@ The `enhanced_visualize_response.py` script generates comprehensive visualizatio
 
 1.  3D visualizations of the cell structure:
 
-    ![3D Visualization Before Osmotic Stress](visualizations/images/3d_visualization_before.png)
-    ![3D Visualization After Osmotic Stress](visualizations/images/3d_visualization_after.png)
+    ![3D Visualization Before Osmotic Stress](visualizations/3d_visualization_before.png)
+    ![3D Visualization After Osmotic Stress](visualizations/3d_visualization_after.png)
 
 2.  2D projections from different angles:
 
-    ![2D Projection - XY View](visualizations/images/2d_projection_xy.png)
-    ![2D Projection - XZ View](visualizations/images/2d_projection_xz.png)
+    ![2D Projection - XY View](visualizations/2d_projection_xy.png)
+    ![2D Projection - XZ View](visualizations/2d_projection_xz.png)
 
 3.  Displacement histograms showing how much proteins move:
 
-    ![Displacement Histogram](visualizations/images/displacement_histogram.png)
+    ![Displacement Histogram](visualizations/displacement_histogram.png)
 
 4.  Expression vs displacement plots showing the relationship between gene expression and protein movement:
 
-    ![Expression vs Displacement Plot](visualizations/images/expression_displacement_plot.png)
+    ![Expression vs Displacement Plot](visualizations/expression_displacement_plot.png)
 
 5.  Vector field visualizations showing the direction and magnitude of protein movements:
 
-    ![Vector Field Visualization](visualizations/images/vector_field.png)
+    ![Vector Field Visualization](visualizations/vector_field.png)
 
 ## Results
 
