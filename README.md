@@ -97,8 +97,8 @@ The `enhanced_visualize_response.py` script generates comprehensive visualizatio
 
 1.  3D visualizations of the cell structure:
 
-    ![3D Visualization Before Osmotic Stress](visualizations/3d_visualization_before.png)
-    ![3D Visualization After Osmotic Stress](visualizations/3d_visualization_after.png)
+    ![Cell Response to Osmotic Stress](visualizations/cell_response_3d_enhanced.png)
+    ![3D Visualization Before Osmotic Stress](visualizations/3d_visualization.png)
 
 2.  2D projections from different angles:
 
