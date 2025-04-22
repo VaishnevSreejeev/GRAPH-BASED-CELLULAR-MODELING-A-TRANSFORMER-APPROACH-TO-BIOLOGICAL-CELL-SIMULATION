@@ -1,0 +1,2 @@
+# GRAPH-BASED-CELLULAR-MODELING-A-TRANSFORMER-APPROACH-TO-BIOLOGICAL-CELL-SIMULATION
+Mycoplasma genitalium is one of the smallest known self-replicating organisms, making it an ideal model for whole-cell modeling. This project uses 3D structural data from the MycoplasmaGenitalium repository to create positional encodings for a graph transformer model that predicts how the cell structure changes in response to osmotic stress.
